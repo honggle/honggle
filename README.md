@@ -1,5 +1,15 @@
 ## Hi Honggle World! 👋
 
+# Developer Experience
+
+- **Years of Experience**: 4 years
+- **Development Focus**: Smart Factory
+
+## Key Experience
+- **MES Development**: Developed and maintained Manufacturing Execution Systems (MES)
+- **RMS Development**: Developed and optimized Resource Management Systems (RMS)
+- **QMS Enhancement**: Enhanced Quality Management Systems (QMS) with automation features
+
 <!--
 **honggle/honggle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
